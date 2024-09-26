@@ -1,0 +1,1 @@
+savedcmd_/home/potato/Desktop/testing/12/b/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/potato/Desktop/testing/12/b/Module.symvers -T /home/potato/Desktop/testing/12/b/modules.order -i Module.symvers -e 

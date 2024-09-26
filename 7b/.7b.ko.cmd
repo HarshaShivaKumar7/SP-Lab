@@ -1,0 +1,1 @@
+savedcmd_/home/potato/Desktop/testing/7b/7b.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/potato/Desktop/testing/7b/7b.ko /home/potato/Desktop/testing/7b/7b.o /home/potato/Desktop/testing/7b/7b.mod.o
